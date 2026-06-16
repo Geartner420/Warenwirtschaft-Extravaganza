@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+warenwirtschaft.sqlite3
+warenwirtschaft.sqlite3-*
+datenbank_backups/
+https_zertifikate/
